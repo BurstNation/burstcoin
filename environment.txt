@@ -1,0 +1,4 @@
+Build environment configurations for Dev
+
+1) Sources are built/debugged through IntelliJ IDEA v2017.1
+2) JAVA SDK v8u121

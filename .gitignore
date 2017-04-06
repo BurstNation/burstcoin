@@ -8,4 +8,5 @@ nxt.log
 /conf/logging.properties
 /conf/nxt.properties
 nxt.log.lck
+sources.txt
 

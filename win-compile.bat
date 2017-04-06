@@ -1,3 +1,4 @@
+
 REM Edit Line 1 to point to your JDK Bin Directory
 
 set path=%path%;D:\Program Files\Java\jdk1.8.0_121\bin
